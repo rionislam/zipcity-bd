@@ -1,0 +1,25 @@
+{
+  "name": "zipcity-bd",
+  "version": "1.0.0",
+  "description": "A Bangladesh-based zipcode package to get your Divisions, Districts, City, Sub-City with PostalCode in just seconds.",
+  "main": "index.js",
+  "scripts": {
+    "test": "''"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ettisafxrup/zipcity-bd.git"
+  },
+  "keywords": [
+    "zipcode",
+    "district",
+    "names",
+    "bd"
+  ],
+  "author": "Ettisaf Rup (github.com/ettisafxrup)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ettisafxrup/zipcity-bd/issues"
+  },
+  "homepage": "https://github.com/ettisafxrup/zipcity-bd#readme"
+}
