@@ -1,6 +1,6 @@
 {
   "name": "zipcity-bd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Bangladesh-based zipcode package to get your Divisions, Districts, City, Sub-City with PostalCode in just seconds.",
   "main": "index.js",
   "scripts": {

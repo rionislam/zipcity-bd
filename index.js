@@ -5303,7 +5303,7 @@ const data = {
     },
     {
       city: "Sarail",
-      sub: "Sarial",
+      sub: "Sarail",
       postalCode: "3430",
     },
     {
