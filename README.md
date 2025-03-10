@@ -164,7 +164,6 @@ Happy coding, AssalamuAlaikum!
 Author: Ettisaf Rup
 
 <p align="left">
-<a href="https://github.com/ettisafxrup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ettisafrup" height="30" width="40" /></a>
+<a href="https://github.com/ettisafxrup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ettisafrup" height="30" width="40" /></a>
 <a href="https://facebook.com/ettisafxrup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xtend ettisaf" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ettisafxrup" target="blank"><img align="center" src="https://www.vivantechnologies.com/images/stories/icon_witoutTxt/linkdin.png" alt="ettisafxrup" height="30" width="40" /></a>
 </p>
